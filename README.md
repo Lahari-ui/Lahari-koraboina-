@@ -2,7 +2,7 @@
 “Collection of my codes and projects in C, Python, Verilog, and Frontend – showcasing my learning and development journey.”
 # 🌟 Lahari Koraboina
 🎓 **Electronics and Communication Engineering Student @ SIET**
-📊 **CGPA: 9.4 (1st Year – 2nd Semester)**
+📊 **CGPA: 9.4 (1st Year – 1st Semester)**
 💻 Passionate about **C, Python, Verilog, and Frontend Development**
 ⚡ Interested in **VLSI, Core Electronics, and Software Projects**
 

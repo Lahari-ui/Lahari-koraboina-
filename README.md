@@ -29,7 +29,7 @@
 
 ## 🌐 Connect With Me
 
-* 🔗 [LinkedIn](https://www.linkedin.com/in/lahari-koraboina)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/lahari-koraboina)https://www.linkedin.com/public-profile/settings
 * 💻 [GitHub](https://github.com/L-A-H-A-R-I)
 
 
